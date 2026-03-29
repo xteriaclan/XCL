@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 136593619,
+    "name": "Xteria Challenge",
+    "author": "Kubuśś",
+    "creators": ["Kubuśś"],
+    "verifier": "Kubuśś",
+    "verification": "https://medal.tv/games/geometry-dash/clips/mnOyPkvUtQBYPC80T?invite=cr-MSxNQlMsMjgwMDAxNTUx&v=33",
+    "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
         {
             "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "https://medal.tv/games/geometry-dash/clips/mnOyPkvUtQBYPC80T?invite=cr-MSxNQlMsMjgwMDAxNTUx&v=33",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
