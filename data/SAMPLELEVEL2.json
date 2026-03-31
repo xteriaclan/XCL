@@ -1,18 +1,11 @@
 {
     "id": 136879979,
-    "name": "Xteria Golden",
-    "author": "ilanorcuil",
-    "creators": ["ilanorcuil"],
-    "verifier": "ilanorcuil",
-    "verification": "https://youtu.be/aL6xtXHGC7A",
+    "name": "Xteria Challange",
+    "author": "yeezyBE",
+    "creators": ["yeezyBE"],
+    "verifier": "rekawekbros",
+    "verification": "https://medal.tv/games/geometry-dash/clips/mp9JGwAMyjPzE2T__?invite=cr-MSx2R1QsMjYzNDE3NzEy&v=25",
     "percentToQualify": "50",
     "handcam": "Not Required",
-    "records": [
-        {
-            "user": "rekawekbros",
-            "link": "https://medal.tv/games/geometry-dash/clips/mp77xAWbCaBFH-exg?invite=cr-MSxiVkgsMjYzNDE3NzEy&v=21",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
+    "records": []
 }
