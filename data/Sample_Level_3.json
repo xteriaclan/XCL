@@ -1,22 +1,16 @@
 {
-    "id": 136846982,
-    "name": "I unslept",
-    "author": "Radzimir",
-    "creators": ["Radzimir"],
-    "verifier": "Radzimir",
-    "verification": "https://youtu.be/QfSxYPYgSh8",
+    "id": 136879979,
+    "name": "Xteria Golden",
+    "author": "ilanorcuil",
+    "creators": ["ilanorcuil"],
+    "verifier": "ilanorcuil",
+    "verification": "https://youtu.be/aL6xtXHGC7A",
     "percentToQualify": "50",
-    "handcam": "not required",
+    "handcam": "Not Required",
     "records": [
         {
-            "user": "Sraczong",
-            "link": "https://medal.tv/games/geometry-dash/clips/mp2uowa1tXpkZ8nSJ?invite=cr-MSxVQ1osMjYzNDc5NzYy&v=28",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "RekawekBros",
-            "link": "https://medal.tv/pl/games/geometry-dash/clips/mpaa6VhpiVeT79-os?invite=cr-MSxLaEIsNzg2NTczOTI",
+            "user": "rekawekbros",
+            "link": "https://medal.tv/games/geometry-dash/clips/mp77xAWbCaBFH-exg?invite=cr-MSxiVkgsMjYzNDE3NzEy&v=21",
             "percent": 100,
             "hz": 144
         }
