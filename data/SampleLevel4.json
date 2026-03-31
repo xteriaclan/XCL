@@ -1,0 +1,24 @@
+{
+    "id": 136846982,
+    "name": "I unslept",
+    "author": "Radzimir",
+    "creators": ["Radzimir"],
+    "verifier": "Radzimir",
+    "verification": "https://youtu.be/QfSxYPYgSh8",
+    "percentToQualify": "50",
+    "handcam": "not required",
+    "records": [
+        {
+            "user": "Radzimir",
+            "link": "https://youtu.be/QfSxYPYgSh8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Radzimir",
+            "link": "https://youtu.be/QfSxYPYgSh8",
+            "percent": 50,
+            "hz": 240
+        }
+    ]
+}
