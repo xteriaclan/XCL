@@ -7,12 +7,5 @@
     "verification": "https://youtu.be/9wAp6jgQC8g",
     "percentToQualify": 50,
     "handcam": "not required",
-    "records": [
-        {
-            "user": "Kubuśś",
-            "link": "https://youtu.be/9wAp6jgQC8g",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+    "records": []
 }
