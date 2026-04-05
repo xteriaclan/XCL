@@ -4,11 +4,15 @@
     "author": "GDCanee",
     "creators": ["GDCanee"],
     "verifier": "TheGoodyGames",
-    "verification": "https://youtu.be/aL6xtXHGC7A",
+    "verification": "https://youtu.be/7WPa5wgaT9Y",
     "percentToQualify": "50",
     "handcam": "Not Required",
     "records": [
         {
+            "user": "rekawekbros",
+            "link": "https://medal.tv/games/geometry-dash/clips/mpuxtwQJFpsc_54OS?invite=cr-MSxRUVUsMjYzNDE3NzEy&v=15",
+            "percent": 100,
+            "hz": 144
             
         }
     ]
