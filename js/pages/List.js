@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">NONG</div>
-                            <a v-if="!level.nong>Nope</a>
+                            <a v-if="!level.nong">Nope</a>
                             <a v-else :href="level.nong" download>Download</a>
                         </li>
                     </ul>
