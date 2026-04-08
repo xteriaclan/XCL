@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">NONG</div>
-                            <a href="../../assets/"{{ level.nong }}" download ">{{ level.nong || 'Nope' }}</a>
+                            <p> {{ level.nong || 'Nope' }} </p>
                         </li>
                     </ul>
                     <h2>Records</h2>
