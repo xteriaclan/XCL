@@ -5,7 +5,7 @@
     "creators": ["Radzimir"],
     "verifier": "Radzimir",
     "verification": "https://youtu.be/QfSxYPYgSh8",
-    "percentToQualify": "50",
+    "percentToQualify": 50,
     "handcam": "not required",
     "records": [
         {
