@@ -53,7 +53,7 @@ export default {
                         <li>
                             <div class="type-title-sm">NONG</div>
                             <a v-if="!level.nong">Nope</a>
-                            <a v-else :href="level.nong" download>Download</a>
+                            <a v-else :href="level.nong" download class="nong-link">Download</a>
                         </li>
                     </ul>
                     <h2>Records</h2>
