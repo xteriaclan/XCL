@@ -134,6 +134,7 @@ export default {
         loading: true,
         selected: 0,
         errors: [],
+        toggledShowcase: false,
         roleIconMap,
         store
     }),
