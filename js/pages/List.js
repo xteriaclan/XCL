@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">NONG</div>
-                            <a href="../../data/{{ level.nong }}.mp3" download="{{ level.nong }}.mp3" > {{ 'Download' || 'Nope' }} </p>
+                            <a href="../../assets/{{ level.nong }}.mp3" download="{{ level.nong }}.mp3" > {{ 'Download' || 'Nope' }} </p>
                         </li>
                     </ul>
                     <h2>Records</h2>
