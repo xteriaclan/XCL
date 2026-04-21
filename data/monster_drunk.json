@@ -7,5 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=NpEaa2P7qZI",
     "percentToQualify": 50,
     "handcam": "Not Required",
-    "records": []
+    "records": [
+        {
+            "user": "YeezyBe",
+            "link": "https://medal.tv/fr/games/geometry-dash/clips/mywIwcCZXwIYbNIL0?invite=cr-MSxmb3osNDI4MDQxNzgw&v=30",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "TheGoodyGames",
+            "link": "https://medal.tv/pl/games/geometry-dash/clips/mywEIcNnHHh83UeWq?invite=cr-MSw0VVYsNTAzOTEyNTk1&v=18",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
 }
