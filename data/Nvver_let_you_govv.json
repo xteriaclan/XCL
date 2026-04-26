@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/p1bPUS-oSY0",
     "percentToQualify": 50,
     "handcam": "Not Required",
-    "records": []
+    "records": [
+        {
+            "user": "RekawekBro",
+            "link": "https://medal.tv/games/geometry-dash/clips/mzMEr4UsxrSvVXbbA?invite=cr-MSxSR0ksMjYzNDE3NzEy&v=18",
+            "percent": 100,
+            "hz": 75
+        }
+    ]
 }
