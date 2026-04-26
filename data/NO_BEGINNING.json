@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/5N9J6NF-rPs",
     "percentToQualify": 50,
     "handcam": "not required",
-    "records": []
+    "records": [
+        {
+            "user": "Philipae65",
+            "link": "https://medal.tv/games/geometry-dash/clips/mzREy2naPtUBiDZjs?invite=cr-MSw5ZkYsNTUyOTYzNjE4&v=120",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
