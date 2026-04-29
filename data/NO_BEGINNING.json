@@ -8,6 +8,11 @@
     "percentToQualify": 50,
     "handcam": "not required",
     "records": [
-      
+       {
+            "user": "FreezyDxD",
+            "link": "https://medal.tv/games/geometry-dash/clips/mAZUouAQg3e1SVEuJ?invite=cr-MSxObjQsNTYyMjY2OTI&v=56",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
