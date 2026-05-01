@@ -1,1 +1,12 @@
-{}
+{
+    "id": 139224029,
+    "name": "I am awake",
+    "author": "Radzimir",
+    "creators": ["Radzimir"],
+    "verifier": "Radzimir",
+    "verification": "https://youtu.be/th-wNB1oyjU",
+    "percentToQualify": 50,
+    "handcam": "not required",
+    "nong": "../../assets/856484.mp3",
+    "records": []
+}
