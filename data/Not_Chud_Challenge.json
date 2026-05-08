@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/mn6n0sqZhJY",
     "percentToQualify": 50,
     "handcam": "not required",
-    "records": []
+    "records": [
+        {
+            "user": "Phil801",
+            "link": "https://medal.tv/de/games/geometry-dash/clips/mDqOajbtTMa9ks6g3?invite=cr-MSx4MjcsNDY4MzYyNTY5&v=20",
+            "percent": 100,
+            "hz": 165 
+        }
+    ]
 }
