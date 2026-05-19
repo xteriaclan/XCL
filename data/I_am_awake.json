@@ -8,5 +8,12 @@
     "percentToQualify": 50,
     "handcam": "not required",
     "nong": "../../assets/856484.mp3",
-    "records": []
+    "records": [
+        {
+            "user": "Jacobility",
+            "link": "https://medal.tv/games/geometry-dash/clips/mJZc59SJKp_8538UU?invite=cr-MSxBelEsMzE4NzkwOTY4&v=22",
+            "percent": 100,
+            "hz": 260
+        }
+    ]
 }
