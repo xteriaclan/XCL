@@ -8,5 +8,12 @@
     "percentToQualify": 50,
     "nong": "../../assets/715825.mp3",
     "handcam": "not required",
-    "records": []
+    "records": [
+         {
+            "user": "CaRrveSs",
+            "link": "https://medal.tv/pl/games/geometry-dash/clips/mK6FNb1yTANo4ROvr?invite=cr-MSxMYlgsNTAzOTEyNTk1",
+            "percent": 100,
+            "hz": 240
+        },
+    ]
 }
